@@ -7,3 +7,15 @@
 </a>
 
 ![Snake animation](https://github.com/fermariano/fermariano/blob/output/github-contribution-grid-snake.svg)
+
+### Languages
+![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,cpp)
+
+### Framework & Libraries
+![My Skills](https://skillicons.dev/icons?i=bootstrap)
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,discord,)
+
+## Currently learning
+![My Skills](https://skillicons.dev/icons?i=java)
