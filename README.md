@@ -9,7 +9,7 @@
 ![Snake animation](https://github.com/fermariano/fermariano/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,cpp)
+![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,cpp,cs)
 
 ### Framework & Libraries
 ![My Skills](https://skillicons.dev/icons?i=bootstrap)
