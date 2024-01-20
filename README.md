@@ -18,4 +18,4 @@
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,discord,)
 
 ## Currently learning
-![My Skills](https://skillicons.dev/icons?i=java,nodejs)
+![My Skills](https://skillicons.dev/icons?i=java,nodejs,ts)
