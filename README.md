@@ -11,11 +11,8 @@
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,cpp,cs)
 
-### Framework & Libraries
-![My Skills](https://skillicons.dev/icons?i=bootstrap)
-
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,discord,)
 
 ## Currently learning
-![My Skills](https://skillicons.dev/icons?i=java,nodejs,ts)
+![My Skills](https://skillicons.dev/icons?i=java,nodejs,ts,go)
